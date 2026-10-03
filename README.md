@@ -196,9 +196,6 @@ Global-Weather-Forecasting/
 ├── report/
 │   └── Weather_Trend_Forecasting_Report.pdf
 │
-├── presentation/
-│   └── Weather_Trend_Forecasting_Presentation.pptx
-│
 ├── .gitignore
 ├── requirements.txt
 └── README.md
