@@ -194,6 +194,7 @@ Global-Weather-Forecasting/
 │       └── pollution_hotspots.csv
 │
 ├── report/
+│   └── Weather_Trend_Forecasting_Report.docx
 │   └── Weather_Trend_Forecasting_Report.pdf
 │
 ├── .gitignore
