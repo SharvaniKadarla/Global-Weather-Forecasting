@@ -969,11 +969,8 @@ Recommended execution order:
 | Spatial analysis                         | Latitude/longitude-based analysis                 |
 | Country/geographic comparison            | Completed                                         |
 | Report                                   | Included                                          |
-| Presentation                             | Included                                          |
 | README                                   | Included                                          |
 | Requirements file                        | Included                                          |
-| Demo video                               | To be linked below                                |
-| GitHub repository                        | To be linked below                                |
 
 ---
 
@@ -1019,19 +1016,7 @@ The report documents:
 
 ---
 
-# 31. Presentation
-
-The project presentation will be available at:
-
-```text
-presentation/Weather_Trend_Forecasting_Presentation.pptx
-```
-
-The presentation summarizes the problem, methodology, results, visualizations, model comparison, advanced analyses, and key findings.
-
----
-
-# 32. Key Findings
+# 31. Key Findings
 
 ### Weather patterns
 
@@ -1063,7 +1048,7 @@ Temperature varied systematically across latitude bands, while particulate conce
 
 ---
 
-# 33. Limitations
+# 32. Limitations
 
 Several limitations should be considered when interpreting the results.
 
@@ -1097,7 +1082,7 @@ The difference between validation and test performance indicates that temporal d
 
 ---
 
-# 34. Responsible Interpretation
+# 33. Responsible Interpretation
 
 This project emphasizes analytical interpretation rather than overclaiming.
 
@@ -1112,7 +1097,7 @@ In particular:
 
 ---
 
-# 35. Conclusion
+# 34. Conclusion
 
 This project demonstrates a complete end-to-end weather analytics and forecasting workflow using a large global weather dataset.
 
@@ -1135,20 +1120,20 @@ The resulting project provides both predictive modeling and broader environmenta
 
 ---
 
-# 36. Author
+# 35. Author
 
 **Sharvani Kadarla**
 
 MS Computer Science — Software Development
 Pace University
 
-GitHub: `ADD_YOUR_GITHUB_PROFILE_LINK`
+GitHub: `https://github.com/SharvaniKadarla`
 
-LinkedIn: `ADD_YOUR_LINKEDIN_PROFILE_LINK`
+LinkedIn: `https://www.linkedin.com/in/sharvani-kadarla`
 
 ---
 
-# 37. References
+# 36. References
 
 ### Dataset
 
@@ -1166,7 +1151,7 @@ https://www.pmaccelerator.io/ai-product-management-certification
 
 GitHub:
 
-`ADD_YOUR_GITHUB_REPOSITORY_LINK`
+`https://github.com/SharvaniKadarla/Global-Weather-Forecasting`
 
 ---
 
