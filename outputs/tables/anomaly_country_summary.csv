@@ -1,0 +1,212 @@
+country,total_observations,anomaly_count,anomaly_rate_percent
+Saudi Arabia,865,430,49.71098265895954
+Kuwait,865,245,28.32369942196532
+India,864,146,16.89814814814815
+Sudan,1727,125,7.2379849449913145
+Chile,863,96,11.123986095017381
+Chad,867,78,8.996539792387544
+Qatar,864,65,7.523148148148148
+China,864,63,7.291666666666667
+Bahrain,866,59,6.812933025404157
+Burkina Faso,866,51,5.8891454965357966
+Indonesia,1733,48,2.7697634160415463
+Mauritania,865,48,5.5491329479768785
+United Arab Emirates,866,27,3.117782909930716
+Nigeria,866,21,2.424942263279446
+Iran,1687,14,0.8298755186721992
+Iceland,864,14,1.6203703703703702
+Iraq,867,12,1.384083044982699
+Micronesia,863,11,1.2746234067207416
+Russia,920,11,1.1956521739130435
+Niger,866,9,1.0392609699769053
+Vietnam,1320,7,0.5303030303030304
+New Zealand,865,7,0.8092485549132947
+Marshall Islands,866,6,0.6928406466512702
+Canada,864,6,0.6944444444444444
+Belgium,1635,5,0.3058103975535168
+Mongolia,865,5,0.5780346820809248
+Pakistan,864,5,0.5787037037037037
+Ireland,863,5,0.5793742757821553
+Azerbaijan,865,4,0.46242774566473993
+Japan,867,3,0.34602076124567477
+Bangladesh,865,3,0.3468208092485549
+Guatemala,859,3,0.3492433061699651
+Malaysia,865,3,0.3468208092485549
+Romania,864,2,0.23148148148148145
+United Kingdom,864,2,0.23148148148148145
+Palau,864,2,0.23148148148148145
+Cape Verde,866,2,0.23094688221709006
+Bulgaria,1995,2,0.10025062656641603
+Gambia,862,2,0.23201856148491878
+Djibouti,863,1,0.11587485515643105
+Croatia,863,1,0.11587485515643105
+Guinea-Bissau,865,1,0.11560693641618498
+France,865,1,0.11560693641618498
+Denmark,864,1,0.11574074074074073
+Benin,865,1,0.11560693641618498
+Barbados,864,1,0.11574074074074073
+Bosnia and Herzegovina,866,1,0.11547344110854503
+Estonia,864,1,0.11574074074074073
+Finland,866,1,0.11547344110854503
+Egypt,864,1,0.11574074074074073
+Guinea,865,1,0.11560693641618498
+Kazakhstan,865,1,0.11560693641618498
+Luxembourg,863,1,0.11587485515643105
+Latvia,864,1,0.11574074074074073
+Kyrghyzstan,865,1,0.11560693641618498
+Netherlands,866,1,0.11547344110854503
+Mexico,862,1,0.11600928074245939
+Montenegro,864,1,0.11574074074074073
+Nepal,865,1,0.11560693641618498
+Italy,866,1,0.11547344110854503
+Norway,897,1,0.11148272017837235
+North Korea,864,1,0.11574074074074073
+Oman,866,1,0.11547344110854503
+Ukraine,867,1,0.11534025374855825
+San Marino,863,1,0.11587485515643105
+South Korea,865,1,0.11560693641618498
+Senegal,986,1,0.10141987829614604
+South Africa,866,1,0.11547344110854503
+Vatican City,867,1,0.11534025374855825
+Uruguay,865,1,0.11560693641618498
+United States of America,862,1,0.11600928074245939
+Uzbekistan,867,1,0.11534025374855825
+Portugal,865,1,0.11560693641618498
+Mali,865,1,0.11560693641618498
+Malta,867,1,0.11534025374855825
+Switzerland,916,1,0.10917030567685589
+Sri Lanka,866,1,0.11547344110854503
+Sweden,865,1,0.11560693641618498
+Belize,861,0,0.0
+Afghanistan,866,0,0.0
+Antigua and Barbuda,862,0,0.0
+Albania,865,0,0.0
+Algeria,864,0,0.0
+Hungary,1006,0,0.0
+Inde,1,0,0.0
+Haiti,863,0,0.0
+Grenada,860,0,0.0
+Greece,862,0,0.0
+Guyana,862,0,0.0
+Honduras,861,0,0.0
+Ecuador,861,0,0.0
+Ethiopia,865,0,0.0
+Estonie,1,0,0.0
+Eritrea,867,0,0.0
+Fiji Islands,866,0,0.0
+Gabon,865,0,0.0
+Georgia,863,0,0.0
+Germany,866,0,0.0
+Ghana,867,0,0.0
+Equatorial Guinea,867,0,0.0
+El Salvador,859,0,0.0
+Cambodia,865,0,0.0
+Cameroon,865,0,0.0
+Burundi,867,0,0.0
+Congo,863,0,0.0
+Comoros,863,0,0.0
+Colombia,2,0,0.0
+Cote d'Ivoire,404,0,0.0
+Costa Rica,858,0,0.0
+Cuba,862,0,0.0
+Cyprus,866,0,0.0
+Democratic Republic of Congo,863,0,0.0
+Czech Republic,864,0,0.0
+Dominica,862,0,0.0
+Dominican Republic,863,0,0.0
+Bhutan,864,0,0.0
+Botswana,865,0,0.0
+Brunei Darussalam,864,0,0.0
+Brazil,862,0,0.0
+Bolivia,1720,0,0.0
+Central African Republic,865,0,0.0
+Bélgica,1,0,0.0
+Andorra,866,0,0.0
+Austria,865,0,0.0
+Australia,867,0,0.0
+Armenia,866,0,0.0
+Argentina,864,0,0.0
+Angola,866,0,0.0
+Bahamas,860,0,0.0
+Belarus,865,0,0.0
+Libya,2,0,0.0
+Marrocos,1,0,0.0
+Malásia,1,0,0.0
+Malawi,866,0,0.0
+Maldives,863,0,0.0
+Madagascar,1324,0,0.0
+Liechtenstein,865,0,0.0
+Lithuania,865,0,0.0
+Macedonia,860,0,0.0
+Letonia,1,0,0.0
+Liberia,865,0,0.0
+Lesotho,864,0,0.0
+Jemen,1,0,0.0
+Kenya,868,0,0.0
+Jordan,865,0,0.0
+Jamaica,863,0,0.0
+Kiribati,864,0,0.0
+Polônia,1,0,0.0
+Poland,867,0,0.0
+Philippines,865,0,0.0
+Peru,861,0,0.0
+Papua New Guinea,866,0,0.0
+Paraguay,865,0,0.0
+Panama,863,0,0.0
+Nicaragua,860,0,0.0
+Myanmar,866,0,0.0
+Monaco,862,0,0.0
+Mauritius,865,0,0.0
+Mexique,1,0,0.0
+Morocco,864,0,0.0
+Mozambique,866,0,0.0
+Namibia,866,0,0.0
+Israel,865,0,0.0
+Lebanon,865,0,0.0
+Lao People's Democratic Republic,2,0,0.0
+Komoren,1,0,0.0
+Kosovo,2,0,0.0
+Samoa,860,0,0.0
+Saint Lucia,865,0,0.0
+Singapore,866,0,0.0
+Slovakia,866,0,0.0
+Sierra Leone,863,0,0.0
+Seychelles Islands,863,0,0.0
+Serbia,866,0,0.0
+Saudi Arabien,1,0,0.0
+Saint-Vincent-et-les-Grenadines,1,0,0.0
+Saint Vincent and the Grenadines,863,0,0.0
+Saint Kitts and Nevis,864,0,0.0
+Rwanda,866,0,0.0
+Südkorea,1,0,0.0
+Syria,865,0,0.0
+Suriname,863,0,0.0
+Swaziland,745,0,0.0
+Solomon Islands,866,0,0.0
+Slovenia,866,0,0.0
+Somalia,864,0,0.0
+Spain,866,0,0.0
+Tunisia,864,0,0.0
+Trinidad and Tobago,863,0,0.0
+Tajikistan,864,0,0.0
+Tanzania,865,0,0.0
+Togo,2,0,0.0
+Tonga,864,0,0.0
+Thailand,1731,0,0.0
+Timor-Leste,862,0,0.0
+USA United States of America,3,0,0.0
+Uganda,866,0,0.0
+Turkménistan,1,0,0.0
+Tuvalu,865,0,0.0
+Turkmenistan,865,0,0.0
+Turkey,1727,0,0.0
+Vanuatu,866,0,0.0
+Venezuela,864,0,0.0
+Yemen,867,0,0.0
+Zambia,866,0,0.0
+Zimbabwe,864,0,0.0
+Гватемала,1,0,0.0
+Польша,1,0,0.0
+Турция,1,0,0.0
+كولومبيا,1,0,0.0
+火鸡,1,0,0.0
