@@ -988,7 +988,7 @@ A short 1–2 minute demonstration video will show:
 * Advanced analyses
 * Key outputs
 
-**Demo Video:** `ADD YOUR DEMO VIDEO LINK HERE`
+**Demo Video:** `https://drive.google.com/file/d/1gJW3QWwG-K8QHkCG054HNZkxKQSBCkUW/view?usp=drive_link`
 
 ---
 
